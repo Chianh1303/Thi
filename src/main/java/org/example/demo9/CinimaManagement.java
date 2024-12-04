@@ -12,6 +12,7 @@ public class CinimaManagement {
         Showtime = showtime;
         TicketPrice = ticketPrice;
     }
+//    sadasd
 
     public int getIdTicket() {
         return idTicket;
